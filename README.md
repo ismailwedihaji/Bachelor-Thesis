@@ -6,3 +6,6 @@ Traditional statistical methods for predicting stock market trends often struggl
 The significance of this problem lies in the growing reliance on ML models by financial companies to inform investment strategies. The study uses historical S&P 500 data from 1995 to 2024, retrieved from Yahoo Finance, focusing on metrics such as Open, High, Low, Close, and Volume prices. The data was preprocessed to ensure consistency and was divided into training and testing sets to evaluate the models.
 
 Our results show that the Polynomial Regression and Decision Tree models performed well on the training data but they had significant errors on the testing data. While, the LSTM model showed better performance, effectively capturing both short-term and long-term market trends. Based on these findings results, suggest that LSTM networks provide the most reliable predictions.
+
+# Link Below 
+https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1885506&dswid=9917 
